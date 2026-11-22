@@ -75,7 +75,7 @@ Power BI connection, in Power BI Service: Get data from Azure SQL Database, serv
 
 ## Screenshots, Section 6 of the PDF
 
-Screenshots are stored in the screenshots/ subfolder of Lab/Exp_07, not in the Exp_07 root.
+Screenshots are stored in the screenshots/ subfolder of Exp_07, not in the Exp_07 root.
 
 Real browser screenshots of the saved Power BI Service report, captured 2026-11-01, not replotted charts:
 
@@ -87,9 +87,9 @@ Real browser screenshots of the saved Power BI Service report, captured 2026-11-
 
 ## Files
 
-Image files are stored in the images/ subfolder of Lab/Exp_07, not in the Exp_07 root.
+Image files are stored in the images/ subfolder of Exp_07, not in the Exp_07 root.
 
-Code files are stored in the code/ subfolder of Lab/Exp_07, not in the Exp_07 root.
+Code files are stored in the code/ subfolder of Exp_07, not in the Exp_07 root.
 
 - images/architecture_diagram.png: data flow diagram.
 - images/dashboard_avg_by_grade.png: average scores by FinalGrade, from the real 50 rows, earlier plotted chart, not used in the PDF Screenshots section.
